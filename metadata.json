@@ -1,0 +1,6 @@
+{
+  "name": "Avanipur Bus Details",
+  "description": "Timetable and bus schedule reference between Avanipur village, Tindivanam, and Chennai with next-bus detection and route filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
